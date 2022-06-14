@@ -1,1 +1,1 @@
-# rsscool-cv
+ https://github.com/tanchitos/rsscool-cv/blob/5aa25c2026a75c3f6cf26f97ea958589021b6060/cv.md
